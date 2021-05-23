@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+section#conteudo {
+	width: 1000;
+	margin: auto;
+}
+iframe#frame {
+	width: 400px;
+	height: 280px;
+	border: none;
+}
+p {
+	text-align: justify;
+	text-indent: 10px;
+}
